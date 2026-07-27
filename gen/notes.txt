@@ -1,0 +1,29 @@
+s1e1-p0.man - Triangle written by hand in the organizers' editor
+s1e1-p1.man - same but golfed
+s1e3-p0.man - Reverse a List written mostly by hand in the organizers' editor,
+    except I did a few string replications locally to copy some statements or pipes 16 times
+s1e1-p2.man - more golfed
+s1e1-p3.man - faster
+s1e1-p4.man - more golfed
+s1e1-p5.man - revert, bounding box is one bigger but it's faster,
+    the longer arrow slows s1e1-p4.man down too much.
+s2e1-gen.py - History lesson, encode each output character as two base 10 digits 
+    of its code minus 29, wrap to a square
+s1e3-p0-trivial.man - Sort, submitted trivial solution that outputs each list unchanged
+s2e2-p0-trivial.man - Brackets, submitted trivial solution that outputs 0
+s1e2-p0-trivila.man - Memory, submitted trivial solution that outputs zeroes
+s2e4-p0-trivial.man - Plotter, submitted trivial solution that plots the starting point
+s3e3-p0-trivial.man - Sudoku, submitted trivial solution that outputs ones
+s3e4-p0-trivial.man - Subset sum, submitted trivial solution that outputs zero
+s1e1-p6-syntax-error.man - illustrates a parser quirk.
+    according to the online simulator, this is a syntax error,
+    because a bend in the input arrow seems like it comes out from the output box.
+    compare to s1e2-p4.man , a correct solution.
+s1e2-gen.py s1e2-p1.man - Memory solved, see comments in generator
+s1e4-gen.py - Sort solved
+s2e3-p1.man - Packet reassembly solved except for the failure cases
+s2e2-p1.man - Brackets, checks only the first two brackets
+s2e2-p2.man - Counts opening and closing brackets but no longer detects if the second is a closing bracket that mismatches.
+
+
+
