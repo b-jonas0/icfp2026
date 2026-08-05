@@ -25,5 +25,10 @@ s2e3-p1.man - Packet reassembly solved except for the failure cases
 s2e2-p1.man - Brackets, checks only the first two brackets
 s2e2-p2.man - Counts opening and closing brackets but no longer detects if the second is a closing bracket that mismatches.
 
+Everything above I submitted during the contest.
+== Contest deadline. ==
+Everything below I wrote after the deadline.
+
+s2e2-p3.man - Brackets, proper solution
 
 
