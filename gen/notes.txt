@@ -30,5 +30,7 @@ Everything above I submitted during the contest.
 Everything below I wrote after the deadline.
 
 s2e2-p3.man - Brackets, proper solution
+s2e1-p1.man - smaller solution, 94 diameter
+
 
 
